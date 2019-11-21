@@ -7,6 +7,6 @@ Topics:
 - Console Input/Output
 - Conditions (```if```-```else```)
 - Loops (```do```-```while```)
-- Handling exceptions
+- Handling Exceptions (```try```-```catch```)
 
 Date of Completion: 04/08/2018
